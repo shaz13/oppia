@@ -31,7 +31,7 @@ from core.controllers import feedback
 from core.controllers import learner_dashboard
 from core.controllers import learner_playlist
 from core.controllers import library
-from core.controllers import moderator
+from core.controllers import moderatorafbajfbaefbaefbae
 from core.controllers import pages
 from core.controllers import profile
 from core.controllers import reader
